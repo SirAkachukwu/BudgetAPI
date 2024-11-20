@@ -77,6 +77,7 @@ namespace BudgetAPI.Controllers
         {
             await _budgetService.DeleteAllBudgetsByUserAsync(userId);
             return NoContent();
+
         }
     }
 }
