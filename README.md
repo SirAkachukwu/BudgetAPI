@@ -23,7 +23,7 @@ This is a **.NET 8** backend API for tracking expenses and budgets using **SQLit
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/your-username/ExpenseTrackerApi.git
+git clone https://github.com/SirAkachukwu/BudgetAPI.git
 cd ExpenseTrackerApi
 ```
 
