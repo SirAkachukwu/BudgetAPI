@@ -1,4 +1,4 @@
-﻿# Expense Tracker API
+﻿# BudgetAPI
 
 This is a **.NET 8** backend API for tracking expenses and budgets using **SQLite**. It allows users to manage their expenses, set budgets, and track their spending effectively.
 
